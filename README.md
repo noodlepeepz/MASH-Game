@@ -1,2 +1,2 @@
 # MASH Game
-MASH gsme for web design 1 at North West Vista
+MASH Game for Web Design 1 at North West Vista
